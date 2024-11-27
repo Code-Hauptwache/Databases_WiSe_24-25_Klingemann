@@ -42,13 +42,25 @@
     | d     | e         | b         | d     |
 
 ![image](https://github.com/user-attachments/assets/83d84a59-c960-4d4b-bbdf-4da27629f094)
+  - | **A** | **B** | **C** |
+    |-------|-------|-------|
+    | a     | b     | c     |
+    | a     | b     | d     |
+    | c     | b     | c     |
+    | c     | b     | d     |
 
 ![image](https://github.com/user-attachments/assets/c4e0ef06-e88c-4818-befe-36a5ab532d7a)
+  - A = { a, c }
 
 ![image](https://github.com/user-attachments/assets/fde27bf4-8864-4c8d-a7d9-714b7810fc81)
+  - { }
 
 ![image](https://github.com/user-attachments/assets/4da951a1-93ea-4f3a-9ad9-d517c5b4b32b)
+  - { }
 
 ![image](https://github.com/user-attachments/assets/e50a9fce-6d83-4e3a-ab5b-e2be6d475fbd)
+  - | **A** | **B** |
+    |-------|-------|
+    | d     | a     |
 
 ![image](https://github.com/user-attachments/assets/d42f1003-dff0-4842-97e2-5ca75b651bbf)
